@@ -66,7 +66,7 @@ following methods.
   contains the HTML representation of your XBlock’s server-side view.
   (``runtime`` is automatically provided by the XBlock runtime.)
   
-* Similarly, you can use ``runtime.childMap(element, name)`` to get a child
+.. * Similarly, you can use ``runtime.childMap(element, name)`` to get a child
   element that has a specific name. 
 
 .. examples?
