@@ -90,7 +90,7 @@ Fields can relate to users in the following ways.
   change the field value, and all learners see the same value. For example, the
   total number of learners who answer a question is the same for all users.
 
-  .. note:: Field data related to all users is not the same as aggregate or
+  note:: Field data related to all users is not the same as aggregate or
     query data. The same value is shared for all users, and you cannot
     associate specific actions to specific users.
 
